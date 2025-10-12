@@ -1,5 +1,4 @@
-# 🤏 TINYLM: Model Bahasa Mini yang Cerdas
-
+# 🤏 TINYLM: Tiny Languange Model
 <div align="center">
 
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/)
