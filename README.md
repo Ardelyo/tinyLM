@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🤏 TINYLM: Model Bahasa Mini yang Cerdas
 
 <div align="center">
@@ -491,4 +492,8 @@ Proyek ini dilisensikan di bawah MIT License - lihat file [LICENSE](LICENSE) unt
 
 **TinyLM - Membuat AI accessible untuk semua orang, di mana saja!** 🚀
 
+<<<<<<< HEAD
 </div>
+=======
+</div>
+>>>>>>> e34d498996dce74f579caab1aa2e7f270038d111
